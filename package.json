@@ -4,7 +4,7 @@
 	"description": "Check LiteMF package updates",
 	"main": "build/index.js",
 	"engines": {
-		"node": "12.x"
+		"node": "14.x"
 	},
 	"scripts": {
 		"prebuild": "rimraf ./build/*",
